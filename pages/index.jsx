@@ -76,7 +76,7 @@ export default function HomePage() {
             <div className={styles.picture_boader}>
               <Image
                 className={styles.picture}
-                src="./sbu.jpg"
+                src="/sbu.JPG"
                 width={300}
                 height={290}
                 alt="Kostas' Picture"
