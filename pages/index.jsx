@@ -79,7 +79,7 @@ export default function HomePage() {
                 src="/sbu.JPG"
                 width={300}
                 height={290}
-                alt="Kostas' Picture"
+                alt="Sibusiso' Picture"
               />
             </div>
 

@@ -1,84 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Minecraft AI",
-    "image": "https://i.imgur.com/rH7S0M9.png",
-    "description": "A Reinforcement Learning agent that learns how to to solve maze missions in Minecraft.",
-    "tags": ["PyTorch", "Reinforcement-Learning", "Minecraft"],
-    "source_code": "https://github.com/drkostas/Minecraft-AI"
+    "name": "Jukebox App",
+    "image": "/jukebox.png",
+    "description": "A simple music player app made with react.js with a spotify like design - ad free and open source.",
+    "tags": ["React-js", "deezer-api", "JavaScript","NodeJs"],
+    "source_code": "https://github.com/sbuDiction/Juke-box-using-react-hooks",
+    "demo":"https://play-jukebox.onrender.com/"
   },
   {
     "id": 2,
-    "name": "3D Semantic Segmentation",
-    "image": "https://imgur.com/NtIvxWG.png",
-    "description": "Semantic Segmentation with Transformers on 3D Medical Images.",
-    "tags": ["PyTorch", "OpenCV", "SegFormer", "Semantic-Segmentation", "Medical-Imaging"],
-    "source_code": "https://github.com/drkostas/3D-Semantic-Segmentation"
+    "name": "Admin Workflow App",
+    "image": "workflow.png",
+    "description": "A project management system for companies. Log in as a project manager and create projects, assign a project to a team leader and add project duration, description, tasks and subtasks",
+    "tags": ["NodeJs", "REST-APIs", "JavaScript", "Tailwind-CSS", "ExpressJs","SQL","ORM","React-js"],
+    "source_code": "https://github.com/sbuDiction/Uj-Hackthon-Back-End",
+    "demo":"https://workflow-admin-23c6a.web.app/"
   },
   {
     "id": 3,
-    "name": "Transformer-based Question Answering using BERT",
+    "name": "Student Collaboration App",
     "image": "https://imgur.com/dw21deK.png",
-    "description": "BERT-based question answering/reading comprehension methods on Rinehart Novels.",
-    "tags": ["PyTorch", "SpaCy", "HuggingFace", "Transformers", "BERT"],
-    "source_code": "https://github.com/drkostas/Bert-Question-Answering"
+    "description": "A student collab system for students to help with research. Log in as a student to find researchers in their field of interest, post questions on the community, answer questions posted in the community and find research papers using the google scholar api.",
+    "tags": ["NodeJs", "JavaScript", "React-js", "REST-APIs", "ORM", "Google-Scholar-API"],
+    "source_code": "https://github.com/sbuDiction/student-collab-client"
   },
   {
     "id": 4,
-    "name": "Accident Severity Prediction",
-    "image": "https://imgur.com/3w7SKLt.png",
-    "description": "Predicting the severity of car accidents from various attributes.",
-    "tags": ["Pandas", "Scipy", "Bayesian-Optimization", "XGBoost", 
-    "Logistic-Regression", "Neural-Network", "K-Means"],
-    "source_code": "https://github.com/drkostas/accident-severity-prediction"
-  },
-  {
-    "id": 5,
-    "name": "Hybrid Girvan Newman",
-    "image": "https://imgur.com/FcIlWzb.png",
-    "description": "Hybrid Girvan Newman. Code for the `A Distributed Hybrid Community Detection Methodology for Social Networks` paper.",
-    "tags": ["Apache-Spark", "Social-Networks", "Community-Detection", "GraphFrames", "MySQL"],
-    "source_code": "https://github.com/drkostas/HGN",
-    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C"
-  },
-  {
-    "id": 6,
-    "name": "COVID-19 Vaccination Prediction",
-    "image": "https://imgur.com/uXxzBBC.png",
-    "description": "Simultaneous Time Series Forecasting on the global COVID-19 Daily Vaccinations.",
-    "tags": ["Tensorflow", "LSTMs", "Multivariate-Time-Series"],
-    "source_code": "https://github.com/drkostas/covid19-vaccinations-predict"
-  },
-  {
-    "id": 7,
-    "name": "Instagram Likes Prediction",
-    "image": "https://imgur.com/siwQMhc.png",
-    "description": "First attempt on predicting the likes a photo will get on Instagram.",
-    "tags": ["Tensorflow", "OpenCV", "Instagram", "Scraper", "CNN"],
-    "source_code": "https://github.com/drkostas/Insta-Likes-Predict"
-  },
-  {
-    "id": 8,
-    "name": "Reinforcement Learning - Value Iteration",
-    "image": "https://imgur.com/v0s5gPx.png",
-    "description": "Implementation of value iteration algorithm for calculating an optimal MDP policy.",
-    "tags": ["Markov-Decision-Process", "Value-Iteration", "RL"],
-    "source_code": "https://github.com/drkostas/RL-Value-Iteration"
-  },
-  {
-    "id": 9,
-    "name": "Vanilla Numpy CNN",
-    "image": "https://imgur.com/sNrVbbL.png",
-    "description": "A Vanilla Numpy-only Convolutional Neural Network.",
-    "tags": ["Numpy", "CNN", "Vanilla-Implementation"],
-    "source_code": "https://github.com/drkostas/Numpy-CNN"
-  },
-  {
-    "id": 10,
-    "name": "Vanilla Numpy Neural Network",
-    "image": "https://imgur.com/mm29qlX.png",
-    "description": "A Vanilla Numpy-only Feed-Forward Neural Network.",
-    "tags": ["Numpy", "Neural-Network", "Vanilla-Implementation"],
-    "source_code": "https://github.com/drkostas/Numpy-NeuralNet-1"
+    "name": "Rea Order App",
+    "image": "rea-order.png",
+    "description": "A simple food ordering system for kasi fast food joints. Place your favourite meal order. Log in as the resturant admin to accept and prepare received orders.",
+    "tags": ["PostgreSQL", "NodeJs", "ExpressJs", "JavaScript", 
+    "SQL", "React-js", "REST-APIs"],
+    "source_code": "https://github.com/sbuDiction/rea_order_client"
   }
 ]

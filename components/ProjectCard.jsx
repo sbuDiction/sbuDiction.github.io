@@ -15,6 +15,7 @@ const ProjectCard = ({ project }) => {
             </span>
           ))}
         </div>
+        
         <div className={styles.cta}>
           {project.source_code && (
             <a

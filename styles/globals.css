@@ -9,100 +9,100 @@
 }
 
 /* Tags */
-.PyTorch {
+.deezer-api {
   border: 0.1rem solid rgb(238, 89, 3);
 }
-.PyTorch:hover {
+.deezer-api:hover {
   background: rgba(238, 89, 3, 0.25);
 }
-.OpenCV {
+.React-js {
   border: 0.1rem solid rgb(50, 85, 213);
 }
-.OpenCV:hover {
+.React-js:hover {
   background: rgba(50, 85, 213, 0.25);
 }
-.SegFormer {
+.NodeJs {
   border: 0.1rem solid rgb(0, 0, 0);
 }
-.SegFormer:hover {
+.NodeJs:hover {
   background: rgba(0, 0, 0, 0.25);
 }
-.Semantic-Segmentation {
+.REST-APIs {
   border: 0.1rem solid rgb(234, 69, 184);
 }
-.Semantic-Segmentation:hover {
+.REST-APIs:hover {
   background: rgba(234, 69, 184, 0.25);
 }
-.Minecraft {
+.JavaScript {
   border: 0.1rem solid rgb(243, 164, 7);
 }
-.Minecraft:hover {
+.JavaScript:hover {
   background: rgba(243, 164, 7, 0.25);
 }
-.Reinforcement-Learning {
+.Tailwind-CSS {
   border: 0.1rem solid rgb(124, 182, 237);
 }
-.Reinforcement-Learning:hover {
+.Tailwind-CSS:hover {
   background: rgba(124, 182, 237, 0.25);
 }
-.Medical-Imaging {
+.ExpressJs {
   border: 0.1rem solid rgb(72, 86, 197);
 }
-.Medical-Imaging:hover {
+.ExpressJs:hover {
   background: rgba(72, 86, 197 0.25);
 }
-.SpaCy {
+.ORM {
   border: 0.1rem solid rgb(0, 0, 0);
 }
-.SpaCy:hover {
+.ORM:hover {
   background: rgba(0, 0, 0, 0.25);
 }
-.HuggingFace {
+.Google-Scholar-API {
   border: 0.1rem solid rgb(238, 250, 2);
 }
-.HuggingFace:hover {
+.Google-Scholar-API:hover {
   background: rgba(238, 250, 2, 0.25);
 }
-.Transformers {
+.PostgreSQL {
   border: 0.1rem solid rgb(13, 250, 49);
 }
-.Transformers:hover {
+.PostgreSQL:hover {
   background: rgba(13, 250, 49 0.25);
 }
-.BERT {
+.Flask {
   border: 0.1rem solid rgb(227, 250, 135);
 }
-.BERT:hover {
+.Flask:hover {
   background: rgba(227, 250, 135, 0.25);
 }
-.Pandas {
+.JSON {
   border: 0.1rem solid rgb(0, 54, 216);
 }
-.Pandas:hover {
+.JSON:hover {
   background: rgba(0, 54, 216, 0.25);
 }
-.Numpy {
+.CORS {
   border: 0.1rem solid rgb(251, 199, 66);
 }
-.Numpy:hover {
+.CORS:hover {
   background: rgba(251, 199, 66, 0.25);
 }
-.Scipy {
+.Gunicorn {
   border: 0.1rem solid rgb(5, 194, 247);
 }
-.Scipy:hover {
+.Gunicorn:hover {
   background: rgba(5, 194, 247, 0.25);
 }
-.Bayesian-Optimization {
+.Pickle {
   border: 0.1rem solid rgb(0, 0, 0);
 }
-.Bayesian-Optimization:hover {
+.Pickle:hover {
   background: rgba(0, 0, 0, 0.25);
 }
-.XGBoost {
+.Pandas {
   border: 0.1rem solid rgb(0, 0, 0);
 }
-.XGBoost:hover {
+.Pandas:hover {
   background: rgba(0, 0, 0, 0.25);
 }
 .Logistic-Regression {
@@ -111,28 +111,28 @@
 .Logistic-Regression:hover {
   background: rgba(0, 0, 0, 0.25);
 }
-.Neural-Network {
+.Numpy {
   border: 0.1rem solid rgb(170, 170, 248);
 }
-.Neural-Network:hover {
+.Numpy:hover {
   background: rgba(170, 170, 248, 0.25);
 }
-.K-Means {
+.sklearn {
   border: 0.1rem solid rgb(0, 0, 0);
 }
-.K-Means:hover {
+.sklearn:hover {
   background: rgba(0, 0, 0, 0.25);
 }
-.Apache-Spark {
+.keras {
   border: 0.1rem solid rgb(170, 170, 248);
 }
-.Apache-Spark:hover {
+.keras:hover {
   background: rgba(170, 170, 248, 0.25);
 }
-.Social-Networks {
+.tensorflow-cpu {
   border: 0.1rem solid rgb(8, 0, 255);
 }
-.Social-Networks:hover {
+.tensorflow-cpu:hover {
   background: rgba(8, 0, 255, 0.25);
 }
 .Community-Detection {
