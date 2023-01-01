@@ -9,7 +9,7 @@ const Tabsbar = () => {
       <Tab icon="/yml_icon.svg" filename="contact.yml" path="/contact" />
       <Tab icon="/py_icon.svg" filename="projects.py" path="/projects" />
       {/* <Tab icon="/json_icon.svg" filename="articles.json" path="/articles" /> */}
-      <Tab icon="/markdown_icon.svg" filename="github.md" path="/github" />
+      {/* <Tab icon="/markdown_icon.svg" filename="github.md" path="/github" /> */}
     </div>
   );
 };
